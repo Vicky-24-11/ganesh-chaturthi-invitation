@@ -89,13 +89,13 @@ patil: {
   eventDate: "August 28, 2025",
   eventTime: "From 10:00 AM",
   eventTimeHindi: "प्रातः १०:०० वाजता पासून",
-  immersionDate: "August 28, 2025",
-  poojaDate: "August 30, 2025",
+  immersionDate: "Septembet 02, 2025",
+  poojaDate: "September 01, 2025",
   untilDay: 5
 },
   upadhyay: {
     familyName: "UPADHYAY FAMILY",
-    familyNameHindi: "शर्मा परिवार",
+    familyNameHindi: "उपाध्याय परिवार",
     contacts: [
       {
         name: "Sanjay Upadhyay",
@@ -121,7 +121,7 @@ patil: {
     eventDate: "August 27, 2025", // 2nd day celebration for Sharma family
     eventTime: "From 9:00 AM",
     eventTimeHindi: "प्रातः 9:00 बजे से",
-    immersionDate: "September 7, 2025",
+    immersionDate: "August 28, 2025",
   poojaDate: "August 28, 2025",
     untilDay:1.5,
     customMessage: "Join us for a grand celebration with cultural programs",
